@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21150402ffb2abac",
+        "id": "96df8a8bdf12e55b",
         "type": "tabs",
         "children": [
           {
-            "id": "d528f9e59cad8b09",
+            "id": "2e0bfe199b2bb10e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "23.11.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "23.11.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "23.11.07.md"
+              }
             }
           }
         ]
@@ -138,8 +143,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d528f9e59cad8b09",
+  "active": "9c6580c1b609ebd3",
   "lastOpenFiles": [
-    "23.11.06.md"
+    "23.11.07.md",
+    "23.11.06.md",
+    "README.md",
+    "Pasted image 20231106174442.png",
+    "Pasted image 20231106173802.png",
+    "Pasted image 20231106173733.png"
   ]
 }
