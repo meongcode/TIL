@@ -1,0 +1,14 @@
+C:\Users\jeong\source\repos\Sparta Game\bin\Debug\net6.0\Sparta Game.exe
+C:\Users\jeong\source\repos\Sparta Game\bin\Debug\net6.0\Sparta Game.deps.json
+C:\Users\jeong\source\repos\Sparta Game\bin\Debug\net6.0\Sparta Game.runtimeconfig.json
+C:\Users\jeong\source\repos\Sparta Game\bin\Debug\net6.0\Sparta Game.dll
+C:\Users\jeong\source\repos\Sparta Game\bin\Debug\net6.0\Sparta Game.pdb
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\Sparta Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\Sparta Game.AssemblyInfoInputs.cache
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\Sparta Game.AssemblyInfo.cs
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\Sparta Game.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\Sparta Game.dll
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\refint\Sparta Game.dll
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\Sparta Game.pdb
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\Sparta Game.genruntimeconfig.cache
+C:\Users\jeong\source\repos\Sparta Game\obj\Debug\net6.0\ref\Sparta Game.dll
