@@ -11,8 +11,24 @@
             "id": "f31d55936772f7ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "23.11.14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "740426af92719dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개인과제.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "48dfc7c41eafda50",
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "23.11.14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "23.11.14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "23.11.14.md"
+              }
             }
           }
         ]
@@ -140,15 +160,17 @@
   },
   "active": "f31d55936772f7ec",
   "lastOpenFiles": [
-    "23.11.13.md",
     "개인과제.md",
+    "23.11.14.md",
+    "23.11.08.md",
+    "23.11.13.md",
+    "Pasted image 20231114125501.png",
     "23.11.10.md",
     "Pasted image 20231106173802.png",
     "Pasted image 20231106173733.png",
     "Pasted image 20231106174442.png",
     "23.11.09.md",
     "23.11.09 TikTakTo Game.md",
-    "23.11.08.md",
     "23.11.07.md",
     "23.11.06.md",
     "README.md"
